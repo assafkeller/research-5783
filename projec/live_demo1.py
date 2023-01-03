@@ -5,10 +5,11 @@ import argparse
 
 import torch
 import numpy as np
-
-from models import HyperRes, NoiseNet
-from utils.DataUtils.CommonTools import modcrop, ToTensor, calculate_psnr, postProcessForStats
-
+from HyperRes1 import HyperRes
+# from models import HyperRes, NoiseNet
+from NoiseNet import NoiseNet
+# from utils.DataUtils.CommonTools import modcrop, ToTensor, calculate_psnr, postProcessForStats
+from CommonTools import modcrop, ToTensor, calculate_psnr, postProcessForStats
 
 ###### --input test\Set5 --checkpoint pre_trained\noise_net_latest.pth
 ##### --input test\Set5 --checkpoint pre_trained\Dej\model_best.pth
