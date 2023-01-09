@@ -1,0 +1,1076 @@
+INFO, Time: 2023-01-09 19:50:17,103, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:50:18,895, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:50:18,898, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:50:18,967, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:50:53,971, line: 225-  * Detected change in 'C:\\Users\\aakel\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+INFO, Time: 2023-01-09 19:50:53,975, line: 225- 127.0.0.1 - - [09/Jan/2023 19:50:53] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 19:50:54,259, line: 225- 127.0.0.1 - - [09/Jan/2023 19:50:54] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:50:54,260, line: 225- 127.0.0.1 - - [09/Jan/2023 19:50:54] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:50:54,295, line: 225- 127.0.0.1 - - [09/Jan/2023 19:50:54] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:50:54,300, line: 225- 127.0.0.1 - - [09/Jan/2023 19:50:54] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:50:54,333, line: 225- 127.0.0.1 - - [09/Jan/2023 19:50:54] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:50:55,564, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:50:57,383, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:50:57,386, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:50:57,456, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:51:11,567, line: 225-  * Detected change in 'C:\\Users\\aakel\\anaconda3\\Lib\\site-packages\\aiohttp\\__init__.py', reloading
+INFO, Time: 2023-01-09 19:51:12,838, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:51:14,679, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:51:14,683, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:51:14,751, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:51:29,408, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\flask_web\\routes.py', reloading
+INFO, Time: 2023-01-09 19:51:29,409, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\flask_web\\routes.py', reloading
+INFO, Time: 2023-01-09 19:51:29,409, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\flask_web\\routes.py', reloading
+INFO, Time: 2023-01-09 19:51:29,409, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\flask_web\\routes.py', reloading
+INFO, Time: 2023-01-09 19:51:30,686, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:51:32,527, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:51:32,531, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:51:32,601, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:51:43,389, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:51:45,190, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:51:45,193, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:51:45,263, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:51:48,805, line: 225- 127.0.0.1 - - [09/Jan/2023 19:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 19:51:49,022, line: 225- 127.0.0.1 - - [09/Jan/2023 19:51:49] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:51:49,022, line: 225- 127.0.0.1 - - [09/Jan/2023 19:51:49] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:51:49,030, line: 225- 127.0.0.1 - - [09/Jan/2023 19:51:49] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:51:49,035, line: 225- 127.0.0.1 - - [09/Jan/2023 19:51:49] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:51:49,054, line: 225- 127.0.0.1 - - [09/Jan/2023 19:51:49] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:53:28,417, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\flask_web\\routes.py', reloading
+INFO, Time: 2023-01-09 19:53:28,417, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\flask_web\\routes.py', reloading
+INFO, Time: 2023-01-09 19:53:28,417, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\flask_web\\routes.py', reloading
+INFO, Time: 2023-01-09 19:53:28,417, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\flask_web\\routes.py', reloading
+INFO, Time: 2023-01-09 19:53:29,702, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:53:31,818, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:53:31,822, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:53:31,893, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:53:35,457, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:53:37,473, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:53:37,477, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:53:37,546, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:53:47,257, line: 225-  * Detected change in 'C:\\Users\\aakel\\anaconda3\\Lib\\site-packages\\torch\\serialization.py', reloading
+INFO, Time: 2023-01-09 19:53:47,258, line: 225- 127.0.0.1 - - [09/Jan/2023 19:53:47] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 19:53:47,498, line: 225- 127.0.0.1 - - [09/Jan/2023 19:53:47] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:53:47,498, line: 225- 127.0.0.1 - - [09/Jan/2023 19:53:47] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:53:47,509, line: 225- 127.0.0.1 - - [09/Jan/2023 19:53:47] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:53:47,511, line: 225- 127.0.0.1 - - [09/Jan/2023 19:53:47] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:53:47,537, line: 225- 127.0.0.1 - - [09/Jan/2023 19:53:47] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:53:48,547, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:53:50,624, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:53:50,627, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:53:50,700, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:55:05,982, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 19:55:05,982, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 19:55:05,982, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 19:55:07,238, line: 225-  * Restarting with watchdog (windowsapi)
+INFO, Time: 2023-01-09 19:55:12,230, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:55:14,286, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:55:14,290, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:55:14,363, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:55:17,165, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 19:55:17,170, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,171, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,171, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,171, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,172, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,172, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,172, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,172, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,173, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,173, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,173, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,173, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,173, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,173, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,174, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,174, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,175, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,175, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,175, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,175, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,175, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,176, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,176, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,176, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,176, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,176, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,177, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,177, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,177, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,177, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,177, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,177, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,178, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,178, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,179, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,179, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,179, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,179, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,179, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,179, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,180, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,180, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,180, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,180, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,180, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,180, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,180, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,180, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,180, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,181, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,181, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,181, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,182, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,182, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,182, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,182, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,182, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,182, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,183, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,183, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,183, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,183, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,184, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,184, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,185, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,185, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,185, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,185, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,186, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,186, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,186, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,186, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,186, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,187, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,187, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,187, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,188, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,188, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,188, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,188, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,189, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,189, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,190, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,190, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,190, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,190, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,191, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,191, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,192, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,192, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,192, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:17,192, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,193, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:17,193, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,193, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:17,194, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 19:55:17,196, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 19:55:17,644, line: 225- 127.0.0.1 - - [09/Jan/2023 19:55:17] "POST /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:55:17,660, line: 225- 127.0.0.1 - - [09/Jan/2023 19:55:17] "[33mGET /static/res_pics/bird.png HTTP/1.1[0m" 404 -
+INFO, Time: 2023-01-09 19:55:21,339, line: 225- 127.0.0.1 - - [09/Jan/2023 19:55:21] "GET / HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:55:22,698, line: 225- 127.0.0.1 - - [09/Jan/2023 19:55:22] "GET /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:55:36,088, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 19:55:36,089, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,089, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,090, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,090, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,090, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,090, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,090, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,090, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,091, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,091, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,092, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,092, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,092, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,092, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,093, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,093, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,093, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,093, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,094, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,094, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,094, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,094, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,095, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,095, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,095, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,095, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,095, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,096, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,096, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,096, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,096, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,096, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,097, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,097, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,098, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,098, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,098, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,098, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,098, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,098, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,099, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,099, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,099, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,099, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,100, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,100, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,101, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,101, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,101, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,101, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,102, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,102, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,102, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,102, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,102, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,103, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,103, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,103, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,104, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,104, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,104, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,104, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,104, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,105, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,105, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,105, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,105, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,105, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,106, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,106, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,107, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,107, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,108, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,108, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,108, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,108, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,108, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,108, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,108, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,108, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,109, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,109, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,110, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,110, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,110, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,110, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,110, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,110, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,111, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,111, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,111, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:55:36,111, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,112, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:55:36,112, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,112, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:55:36,113, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 19:55:36,115, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 19:55:36,484, line: 225- 127.0.0.1 - - [09/Jan/2023 19:55:36] "POST /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:55:36,494, line: 225- 127.0.0.1 - - [09/Jan/2023 19:55:36] "[33mGET /static/res_pics/bird.png HTTP/1.1[0m" 404 -
+INFO, Time: 2023-01-09 19:57:16,435, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:57:18,503, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:57:18,506, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:57:18,576, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 19:57:21,108, line: 225- 127.0.0.1 - - [09/Jan/2023 19:57:21] "GET / HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:57:22,235, line: 225- 127.0.0.1 - - [09/Jan/2023 19:57:22] "GET /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:57:26,649, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 19:57:26,650, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,650, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,651, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,651, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,652, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,652, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,652, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,652, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,653, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,653, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,653, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,653, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,653, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,654, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,654, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,654, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,655, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,655, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,655, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,655, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,656, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,656, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,656, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,656, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,656, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,656, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,657, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,657, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,658, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,658, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,658, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,658, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,659, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,659, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,659, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,659, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,659, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,660, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,660, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,660, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,661, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,661, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,661, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,661, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,662, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,662, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,662, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,663, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,663, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,663, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,663, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,663, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,664, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,664, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,664, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,664, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,665, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,665, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,665, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,666, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,666, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,666, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,666, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,666, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,667, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,667, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,667, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,667, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,668, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,668, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,669, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,669, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,669, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,669, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,669, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,669, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,670, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,670, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,670, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,670, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,671, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,671, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,672, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,672, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,672, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,672, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,672, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,673, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,673, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,673, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,673, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 19:57:26,673, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,674, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 19:57:26,674, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,675, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 19:57:26,675, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 19:57:26,677, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 19:57:27,016, line: 225-  * Detected change in 'C:\\Users\\aakel\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO, Time: 2023-01-09 19:57:27,020, line: 225- 127.0.0.1 - - [09/Jan/2023 19:57:27] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 19:57:27,288, line: 225- 127.0.0.1 - - [09/Jan/2023 19:57:27] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:57:27,289, line: 225- 127.0.0.1 - - [09/Jan/2023 19:57:27] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:57:27,300, line: 225- 127.0.0.1 - - [09/Jan/2023 19:57:27] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:57:27,304, line: 225- 127.0.0.1 - - [09/Jan/2023 19:57:27] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:57:27,319, line: 225- 127.0.0.1 - - [09/Jan/2023 19:57:27] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 19:57:28,283, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 19:57:30,293, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 19:57:30,296, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 19:57:30,367, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:02:06,594, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 20:02:06,594, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 20:02:06,594, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 20:02:06,594, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 20:02:12,182, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:02:14,440, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:02:14,444, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:02:14,516, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:04:20,857, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:04:23,081, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:04:23,084, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:04:23,155, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:07:30,457, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:07:32,647, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:07:32,651, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:07:32,722, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:13:08,351, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:13:10,388, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:13:10,392, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:13:10,461, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:13:14,039, line: 225- 127.0.0.1 - - [09/Jan/2023 20:13:14] "GET / HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:13:16,373, line: 225- 127.0.0.1 - - [09/Jan/2023 20:13:16] "GET / HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:13:18,400, line: 225- 127.0.0.1 - - [09/Jan/2023 20:13:18] "GET /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:15:20,349, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 20:15:20,350, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,350, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,351, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,351, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,352, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,352, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,352, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,352, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,353, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,353, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,354, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,354, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,354, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,354, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,355, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,355, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,355, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,356, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,356, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,356, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,356, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,357, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,357, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,357, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,357, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,358, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,359, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,359, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,359, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,359, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,359, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,359, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,360, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,360, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,361, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,361, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,361, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,361, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,362, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,362, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,363, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,363, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,363, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,363, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,364, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,364, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,365, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,365, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,365, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,365, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,366, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,366, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,367, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,367, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,367, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,367, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,368, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,368, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,368, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,369, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,369, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,369, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,369, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,370, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,370, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,370, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,370, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,370, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,371, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,371, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,372, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,372, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,372, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,372, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,374, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,374, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,374, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,374, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,374, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,374, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,375, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,375, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,376, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,376, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,376, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,376, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,377, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,377, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,378, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,378, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,378, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:15:20,378, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,379, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:15:20,379, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,380, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:15:20,380, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 20:15:20,382, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 20:15:20,765, line: 225- 127.0.0.1 - - [09/Jan/2023 20:15:20] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 20:15:21,057, line: 225- 127.0.0.1 - - [09/Jan/2023 20:15:21] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:15:21,058, line: 225- 127.0.0.1 - - [09/Jan/2023 20:15:21] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:15:21,078, line: 225- 127.0.0.1 - - [09/Jan/2023 20:15:21] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:15:21,083, line: 225- 127.0.0.1 - - [09/Jan/2023 20:15:21] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:15:21,114, line: 225- 127.0.0.1 - - [09/Jan/2023 20:15:21] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:11,177, line: 225-  * Detected change in 'C:\\Users\\aakel\\anaconda3\\Lib\\site-packages\\torch\\autograd\\grad_mode.py', reloading
+INFO, Time: 2023-01-09 20:16:12,457, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:16:14,496, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:16:14,500, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:16:14,572, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:16:25,041, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:16:27,040, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:16:27,043, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:16:27,111, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:16:33,044, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 20:16:33,044, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,044, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,045, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,045, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,046, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,046, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,046, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,046, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,046, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,046, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,047, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,047, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,047, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,047, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,047, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,047, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,048, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,048, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,048, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,048, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,048, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,048, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,049, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,049, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,049, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,049, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,050, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,050, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,050, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,050, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,050, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,050, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,051, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,051, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,051, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,051, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,051, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,051, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,052, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,052, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,052, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,052, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,052, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,052, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,053, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,053, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,054, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,054, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,054, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,054, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,054, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,054, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,055, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,055, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,055, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,055, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,056, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,056, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,057, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,057, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,057, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,057, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,057, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,057, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,058, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,058, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,058, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,058, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,059, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,059, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,059, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,060, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,060, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,060, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,060, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,060, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,061, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,061, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,061, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,061, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,062, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,062, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,063, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,063, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,063, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,063, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,063, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,064, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,065, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,065, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,065, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:33,065, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,065, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:33,065, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,066, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:33,066, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 20:16:33,069, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 20:16:33,481, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:33] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 20:16:33,730, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:33] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:33,731, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:33] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:33,740, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:33] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:33,743, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:33] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:33,768, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:33] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:34,639, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:34] "GET /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:39,757, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 20:16:39,757, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,757, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,758, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,758, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,758, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,759, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,759, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,759, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,759, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,759, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,760, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,760, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,760, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,760, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,761, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,761, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,761, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,762, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,762, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,762, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,762, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,762, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,764, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,764, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,764, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,764, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,764, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,764, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,765, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,765, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,765, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,765, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,766, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,766, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,767, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,767, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,767, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,767, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,768, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,768, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,768, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,769, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,769, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,769, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,769, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,769, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,770, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,770, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,770, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,770, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,771, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,771, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,771, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,772, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,772, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,772, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,772, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,772, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,773, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,773, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,773, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,773, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,774, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,774, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,774, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,775, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,775, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,775, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,775, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,775, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,776, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,776, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,776, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,776, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,777, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,777, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,778, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,778, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,778, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,778, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,778, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,778, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,779, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,779, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,779, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,779, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,780, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,780, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,781, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,781, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,781, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:16:39,781, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,781, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:16:39,781, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,782, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:16:39,782, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 20:16:39,784, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 20:16:40,888, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:40] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 20:16:40,895, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:40] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:40,896, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:40] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:40,906, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:40] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:40,910, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:40] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:16:40,935, line: 225- 127.0.0.1 - - [09/Jan/2023 20:16:40] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:18:33,997, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:18:36,032, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:18:36,035, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:18:36,107, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:18:43,132, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 20:18:43,133, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,133, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,134, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,134, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,134, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,134, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,135, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,135, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,135, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,135, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,136, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,136, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,136, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,136, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,137, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,137, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,137, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,138, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,138, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,138, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,138, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,138, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,139, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,139, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,139, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,139, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,140, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,140, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,140, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,141, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,141, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,141, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,142, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,142, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,142, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,142, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,142, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,142, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,143, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,143, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,144, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,144, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,144, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,144, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,144, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,145, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,145, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,145, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,145, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,146, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,146, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,146, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,147, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,147, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,147, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,147, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,147, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,148, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,148, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,148, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,148, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,148, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,149, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,149, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,150, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,150, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,150, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,150, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,151, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,151, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,151, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,151, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,151, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,151, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,152, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,152, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,153, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,153, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,153, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,153, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,154, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,154, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,154, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,154, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,154, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,154, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,155, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,155, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,156, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,156, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,156, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:18:43,156, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,157, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:18:43,157, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,158, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:18:43,158, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 20:18:43,160, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 20:18:43,477, line: 225- 127.0.0.1 - - [09/Jan/2023 20:18:43] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 20:18:43,787, line: 225- 127.0.0.1 - - [09/Jan/2023 20:18:43] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:18:43,787, line: 225- 127.0.0.1 - - [09/Jan/2023 20:18:43] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:18:43,796, line: 225- 127.0.0.1 - - [09/Jan/2023 20:18:43] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:18:43,803, line: 225- 127.0.0.1 - - [09/Jan/2023 20:18:43] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:18:43,826, line: 225- 127.0.0.1 - - [09/Jan/2023 20:18:43] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:19:09,687, line: 225-  * Detected change in 'C:\\Users\\aakel\\anaconda3\\Lib\\site-packages\\OpenGL\\__init__.py', reloading
+INFO, Time: 2023-01-09 20:19:09,690, line: 225-  * Detected change in 'C:\\Users\\aakel\\anaconda3\\Lib\\site-packages\\OpenGL\\GLU\\__init__.py', reloading
+INFO, Time: 2023-01-09 20:19:10,974, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:19:13,044, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:19:13,048, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:19:13,121, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:21:13,168, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 20:21:13,169, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 20:21:13,169, line: 225-  * Detected change in 'D:\\Algoresearch\\Ex10\\image_restoration\\live_demo2.py', reloading
+INFO, Time: 2023-01-09 20:21:14,441, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:21:16,461, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:21:16,464, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:21:16,533, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:21:37,239, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:21:39,250, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:21:39,253, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:21:39,322, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:21:51,342, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 20:21:51,343, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,343, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,343, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,343, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,344, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,344, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,344, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,344, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,345, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,345, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,346, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,346, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,346, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,346, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,346, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,347, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,347, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,347, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,347, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,347, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,348, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,348, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,349, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,349, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,349, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,350, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,350, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,350, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,351, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,351, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,351, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,351, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,351, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,351, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,352, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,352, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,352, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,352, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,353, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,353, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,354, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,354, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,354, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,354, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,355, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,355, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,355, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,355, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,355, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,355, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,356, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,356, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,357, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,357, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,357, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,357, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,357, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,358, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,358, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,358, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,358, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,358, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,359, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,359, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,360, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,360, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,360, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,360, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,361, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,361, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,361, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,361, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,361, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,361, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,362, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,362, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,363, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,363, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,363, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,363, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,364, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,364, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,364, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,364, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,364, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,364, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,366, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,366, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,366, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,366, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,366, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:21:51,366, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,367, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:21:51,367, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,368, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:21:51,368, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 20:21:51,370, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 20:21:51,743, line: 225- 127.0.0.1 - - [09/Jan/2023 20:21:51] "POST /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:21:51,889, line: 225- 127.0.0.1 - - [09/Jan/2023 20:21:51] "GET /static/res_pics/head.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:23:51,876, line: 225- 127.0.0.1 - - [09/Jan/2023 20:23:51] "GET /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:23:54,230, line: 225- 127.0.0.1 - - [09/Jan/2023 20:23:54] "GET /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:23:59,090, line: 225- 127.0.0.1 - - [09/Jan/2023 20:23:59] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 20:23:59,099, line: 225- 127.0.0.1 - - [09/Jan/2023 20:23:59] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:23:59,099, line: 225- 127.0.0.1 - - [09/Jan/2023 20:23:59] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:23:59,106, line: 225- 127.0.0.1 - - [09/Jan/2023 20:23:59] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:23:59,117, line: 225- 127.0.0.1 - - [09/Jan/2023 20:23:59] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:23:59,126, line: 225- 127.0.0.1 - - [09/Jan/2023 20:23:59] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:24:11,923, line: 225- 127.0.0.1 - - [09/Jan/2023 20:24:11] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+INFO, Time: 2023-01-09 20:24:11,932, line: 225- 127.0.0.1 - - [09/Jan/2023 20:24:11] "GET /data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:24:11,932, line: 225- 127.0.0.1 - - [09/Jan/2023 20:24:11] "GET /data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:24:11,939, line: 225- 127.0.0.1 - - [09/Jan/2023 20:24:11] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:24:11,949, line: 225- 127.0.0.1 - - [09/Jan/2023 20:24:11] "GET /data?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:24:11,957, line: 225- 127.0.0.1 - - [09/Jan/2023 20:24:11] "GET /data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:24:55,535, line: 225-  * Restarting with watchdog (windowsapi)
+WARNING, Time: 2023-01-09 20:24:57,576, line: 225-  * Debugger is active!
+INFO, Time: 2023-01-09 20:24:57,579, line: 225-  * Debugger PIN: 400-831-958
+INFO, Time: 2023-01-09 20:24:57,648, line: 225-  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO, Time: 2023-01-09 20:24:59,314, line: 225- 127.0.0.1 - - [09/Jan/2023 20:24:59] "GET / HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:25:00,464, line: 225- 127.0.0.1 - - [09/Jan/2023 20:25:00] "GET /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:25:03,539, line: 135- initialize HyperRes
+INFO, Time: 2023-01-09 20:25:03,540, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,540, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,540, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,540, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,541, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,541, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,541, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,541, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,541, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,541, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,542, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,542, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,542, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,542, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,542, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,542, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,543, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,543, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,543, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,543, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,543, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,543, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,544, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,544, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,544, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,544, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,544, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,545, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,545, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,545, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,545, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,545, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,546, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,546, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,547, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,547, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,547, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,547, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,547, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,547, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,547, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,547, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,547, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,547, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,548, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,548, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,548, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,548, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,548, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,548, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,549, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,549, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,549, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,549, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,549, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,549, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,550, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,550, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,550, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,550, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,550, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,550, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,551, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,551, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,551, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,551, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,551, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,552, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,553, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,553, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,553, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,553, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,553, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,553, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,554, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,554, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,555, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,555, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,556, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,556, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,556, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,556, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,557, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,557, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,557, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,557, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,557, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,557, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,558, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,558, line: 95- finish initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,558, line: 82- initialize ResBlockMeta
+INFO, Time: 2023-01-09 20:25:03,558, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,559, line: 56- finish initialize HyperConv
+INFO, Time: 2023-01-09 20:25:03,559, line: 37- initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,559, line: 56- finish initialize HyperConv
+DEBUG, Time: 2023-01-09 20:25:03,560, line: 95- finish initialize ResBlockMeta
+DEBUG, Time: 2023-01-09 20:25:03,562, line: 169- finish initialize HyperRes
+INFO, Time: 2023-01-09 20:25:04,671, line: 225- 127.0.0.1 - - [09/Jan/2023 20:25:04] "POST /data HTTP/1.1" 200 -
+INFO, Time: 2023-01-09 20:25:04,809, line: 225- 127.0.0.1 - - [09/Jan/2023 20:25:04] "GET /static/res_pics/baby.png HTTP/1.1" 200 -
