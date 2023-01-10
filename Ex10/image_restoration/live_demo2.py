@@ -105,10 +105,10 @@ def image_restoration(img_path, filename):
     noise_net = loadNoiseNet(device)
 
     init_noise = 45
-    if noise_net:
-        init_noise = noise_net(src1.unsqueeze(0))
-        print("Noise in image:\t{}\nPredicted Noise:\t{:.2f}".format(rnd_noise, init_noise.item()))
-        print("==================================\n")
+    # if noise_net:
+    #     init_noise = noise_net(src1.unsqueeze(0))
+    #     print("Noise in image:\t{}\nPredicted Noise:\t{:.2f}".format(rnd_noise, init_noise.item()))
+    #     print("==================================\n")
 
     # Set the model's level to the trackbar value
     model.setLevel(50)
@@ -122,3 +122,31 @@ def image_restoration(img_path, filename):
     pathlib.Path(picture_path).mkdir(parents=True, exist_ok=True)  # create all folders in the given path.
     os.chdir(picture_path)
     cv2.imwrite(filename, canvas)
+
+
+    def on_trackbar(alpha):
+        # Set the model's level to the trackbar value
+        model.setLevel(alpha)
+        # Process the image
+        with torch.no_grad():
+            dst = model([src1.unsqueeze(0)])[0]
+        # Post-process the image and get the PSNR
+        dst = postProcessForStats(dst)[0]
+        print("{} : {:.2f}".format(alpha, calculate_psnr(dst, gt)))
+        # Display the processed image on the right side of the canvas
+        canvas[:, w:] = dst
+        cv2.imshow(title_window, canvas)
+
+    # Create a window for displaying the images and trackbars
+    cv2.namedWindow(title_window)
+    # Display the original and processed images
+    cv2.imshow(title_window, canvas)
+    # Create a trackbar for adjusting the model's level
+    trackbar_name = "Alpha"
+    cv2.createTrackbar(trackbar_name,
+                      title_window,
+                      init_noise,
+                      alpha_slider_max, on_trackbar)
+    # on_trackbar(init_noise)
+    # Wait until user press some key
+    cv2.waitKey()
